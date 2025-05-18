@@ -1,0 +1,16 @@
+{
+  "name": "secure-api",
+  "version": "1.0.0",
+  "description": "Library for securing API",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Arseny Delikatny",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "helmet": "^8.1.0",
+    "path-to-regexp": "^8.2.0"
+  }
+}
